@@ -7,7 +7,8 @@
     "light": "#C52424",
     "dark": "#C52424"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/logo/tantri-icon.png",
+  "description": "Tantri Project Documentation",
   "navigation": {
     "dropdowns": [
       {
@@ -15,7 +16,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["index", "quickstart", "development"]
+            "pages": ["index"]
           }
         ]
       },
@@ -49,17 +50,6 @@
               "docs/mobile-app/tantri-scanner/overview",
               "docs/mobile-app/tantri-scanner/installation",
               "docs/mobile-app/tantri-scanner/faq"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
             ]
           }
         ]
@@ -141,8 +131,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/logo/tantri-logo.png",
+    "dark": "/images/logo/tantri-logo-white.png"
   },
   "navbar": {
     "primary": {
