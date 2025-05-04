@@ -78,7 +78,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["docs/backend/get-started/index"]
+            "pages": ["docs/be/get-started/index"]
           }
         ]
       },
