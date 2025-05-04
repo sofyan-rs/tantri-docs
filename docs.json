@@ -26,30 +26,30 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["docs/mobile-app/get-started/index"]
+            "pages": ["docs/fe-mobile/get-started/index"]
           },
           {
             "group": "Tantri POS",
             "pages": [
-              "docs/mobile-app/tantri-pos/overview",
-              "docs/mobile-app/tantri-pos/installation",
-              "docs/mobile-app/tantri-pos/faq"
+              "docs/fe-mobile/tantri-pos/overview",
+              "docs/fe-mobile/tantri-pos/installation",
+              "docs/fe-mobile/tantri-pos/faq"
             ]
           },
           {
             "group": "Tantri Customer",
             "pages": [
-              "docs/mobile-app/tantri-customer/overview",
-              "docs/mobile-app/tantri-customer/installation",
-              "docs/mobile-app/tantri-customer/faq"
+              "docs/fe-mobile/tantri-customer/overview",
+              "docs/fe-mobile/tantri-customer/installation",
+              "docs/fe-mobile/tantri-customer/faq"
             ]
           },
           {
             "group": "Tantri Scanner",
             "pages": [
-              "docs/mobile-app/tantri-scanner/overview",
-              "docs/mobile-app/tantri-scanner/installation",
-              "docs/mobile-app/tantri-scanner/faq"
+              "docs/fe-mobile/tantri-scanner/overview",
+              "docs/fe-mobile/tantri-scanner/installation",
+              "docs/fe-mobile/tantri-scanner/faq"
             ]
           }
         ]
@@ -60,14 +60,14 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["docs/web-app/get-started/index"]
+            "pages": ["docs/fe-web/get-started/index"]
           },
           {
             "group": "Tantri Kitchen Display",
             "pages": [
-              "docs/web-app/tantri-kitchen-display/overview",
-              "docs/web-app/tantri-kitchen-display/installation",
-              "docs/web-app/tantri-kitchen-display/faq"
+              "docs/fe-web/tantri-kitchen-display/overview",
+              "docs/fe-web/tantri-kitchen-display/installation",
+              "docs/fe-web/tantri-kitchen-display/faq"
             ]
           }
         ]
